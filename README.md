@@ -16,5 +16,6 @@ Welcome to the Text Summarizer App! This application utilizes AI to create conci
 - **Code Editor/Deployment tool:** VS Code, Replit
   
 ## Structure of the app  
-Our app will have a client side (website), server side, and external API integration to Hugging Face.  
-![image](https://github.com/user-attachments/assets/bd315380-37fa-493c-8276-4abac8e1d7eb)
+Our app will have a client side (website), server side, and external API integration to Hugging Face.      
+
+![image](https://github.com/user-attachments/assets/bd315380-37fa-493c-8276-4abac8e1d7eb) 
