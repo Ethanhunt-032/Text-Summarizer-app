@@ -10,7 +10,7 @@ Welcome to the Text Summarizer App! This application utilizes AI to create conci
 - 📌 Footer with Links: Easy navigation to relevant resources.
 
 ## Tech Stack 💻  
-- Frontend: HTML, CSS, JavaScript  
-- Backend: Node.js, Express.js, Hugging Face Inference API  
-- API Integration: Postman for testing and integrating APIs  
-- Code Editor/Deployment tool: VS Code, Replit
+- **Frontend:** HTML, CSS, JavaScript  
+- **Backend:** Node.js, Express.js, Hugging Face Inference API  
+- **API Integration:** Postman for testing and integrating APIs  
+- **Code Editor/Deployment tool:** VS Code, Replit
