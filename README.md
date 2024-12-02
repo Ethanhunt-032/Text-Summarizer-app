@@ -1,6 +1,6 @@
 
 <h2 align="center">
-  <a href="https://text-summarizer-app-opal.vercel.app/" target="_blank">Text Summarizer App 📝</a>
+  <a href="https://text-summarizer-application.vercel.app/" target="_blank">Text Summarizer App 📝</a>
 </h2>
 
 Welcome to the Text Summarizer App! This application utilizes AI to create concise summaries of lengthy texts, making it an ideal tool for students, professionals, and anyone looking to save time.
