@@ -26,6 +26,7 @@ Click the Submit button to generate the summary.
 View the summarized text in the output box.  
 Toggle between light and dark themes using the switch in the top-left corner.  
 
+
 ![image](https://github.com/user-attachments/assets/5f638a74-66a2-417b-bb48-e4c7fabbbb2b)
 
 
@@ -34,15 +35,19 @@ Add file upload functionality for document summarization (e.g., PDF, DOCX).
 Provide multiple summary options (bullet points, paragraph, etc.).  
 Include multi-language support for global users.  
 
+
 ## Installation 🛠️
   
 **Prerequisites**  
 Node.js installed on your system  
 
-### **Steps**    
-**Clone the repository:  ** 
+### **Steps**      
+**Clone the repository:** 
 - git clone https://github.com/your-username/text-summarizer-app.git  
-- cd text-summarizer-app    
-**Install dependencies:** npm install    
+- cd text-summarizer-app
+
+**Install dependencies:** npm install   
+
 **Start the server:** npm start        
+
 **Open your browser and navigate to:** http://localhost:3000  
