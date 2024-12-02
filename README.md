@@ -1,4 +1,8 @@
-# Text Summarizer App 📝  
+
+<h2 align="center">
+  <a href="https://portfolio-teja-dayana.vercel.app/" target="_blank">Text Summarizer App 📝</a>
+</h2>
+
 Welcome to the Text Summarizer App! This application utilizes AI to create concise summaries of lengthy texts, making it an ideal tool for students, professionals, and anyone looking to save time.
 
 ## Features ✨  
@@ -16,24 +20,27 @@ Welcome to the Text Summarizer App! This application utilizes AI to create conci
 - **Code Editor/Deployment tool:** VS Code, Replit
   
 ## Structure of the app  
+  
 Our app will have a client side (website), server side, and external API integration to Hugging Face.      
 
 ![image](https://github.com/user-attachments/assets/bd315380-37fa-493c-8276-4abac8e1d7eb) 
 
 ## How It Works ⚙️  
-Paste or type the text (min 200 characters, max 100,000 characters) into the input box.    
-Click the Submit button to generate the summary.   
-View the summarized text in the output box.  
-Toggle between light and dark themes using the switch in the top-left corner.  
 
+- Paste or type the text (min 200 characters, max 100,000 characters) into the input box.    
+- Click the Submit button to generate the summary.   
+- View the summarized text in the output box.  
+- Toggle between light and dark themes using the switch in the top-left corner.  
+  
 
 ![image](https://github.com/user-attachments/assets/5f638a74-66a2-417b-bb48-e4c7fabbbb2b)
 
 
 ## Future Enhancements 🚀  
-Add file upload functionality for document summarization (e.g., PDF, DOCX).  
-Provide multiple summary options (bullet points, paragraph, etc.).  
-Include multi-language support for global users.  
+
+- Add file upload functionality for document summarization (e.g., PDF, DOCX).  
+- Provide multiple summary options (bullet points, paragraph, etc.).  
+- Include multi-language support for global users.  
 
 
 ## Installation 🛠️
